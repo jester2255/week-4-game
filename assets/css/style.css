@@ -1,0 +1,110 @@
+body {
+	background:
+	linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
+	linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
+	linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
+	linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
+	linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
+	linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
+	background-color: #131313;
+	background-size: 20px 20px;
+	z-index: -1;
+}
+#main-container{
+	margin-top: 30px;
+	margin-left: 30px;
+	margin-bottom: 30px
+}
+
+
+#title {
+	background-color: lightblue;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: red; 
+}
+
+#instructions{
+	background-color: lightblue;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: red;
+}
+
+#number{
+	line-height: 200%;
+	background-color: lightblue;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: red;
+}
+
+#winsLosses{
+	line-height: 130%;
+	background-color: lightblue;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: red;
+}
+
+#jewls{
+	background-color: lightblue;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: red;
+}
+
+#jewl2{
+	background-color: lightblue;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: red;
+}
+
+#jewl3{
+	background-color: lightblue;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: red;
+}
+
+#jewl4{
+	background-color: lightblue;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: red;
+}
+
+#acctual-total-score {
+	background-color: lightblue;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: red;
+}
+
+#total-score {
+	background-color: lightblue;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: red;
+}
